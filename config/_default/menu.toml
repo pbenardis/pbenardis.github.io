@@ -10,7 +10,7 @@
 [[social]]
 identifier = "email"
 name = "email"
-url = ""
+url = "mailto:pbenardis@proton.me"
 
 [social.params]
 icon = "brand-mail"
