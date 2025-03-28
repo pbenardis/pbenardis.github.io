@@ -55,3 +55,11 @@ icon = "map-pin"
 
 #[social.params]
 #icon = "brand-twitter"
+
+[[social]]
+identifier = "copyright"
+name = "copyright"
+url = "https://twitter.com"
+
+[social.params]
+icon = "copyright"
