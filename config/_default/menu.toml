@@ -39,6 +39,15 @@ url = "https://www.benardis.gr"
 [social.params]
 icon = "brand-world-www"
 
+[[social]]
+identifier = "map"
+name = "map"
+url = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3144.547494434039!2d23.75653007656014!3d37.98768829986582!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14a1bd5524c68889%3A0xc0a1bf9a0a170fed!2zzqDOkc6dzpHOk86ZzqnOpM6XzqMgzpzOoM6Vzp3Okc6hzpTOl86jLSDOmc6RzqTOoc6ZzprOlyDOlc6czpLOoc6lzp_OpSAmIM6lzqDOlc6hzpfOp86fzpPOoc6RzqbOmc6R!5e0!3m2!1sel!2sgr!4v1743178657177!5m2!1sel!2sgr"
+
+[social.params]
+icon = "map-pin"
+
+
 #[[social]]
 #identifier = "twitter"
 #name = "Twitter"
