@@ -7,7 +7,7 @@ favicon = "/favicon.png"
 [footer]
 since = 2025
 customText = ""
-url = "https://www.linkedin.com/in/pbenardis/"
+
 
 #[dateFormat]
 #published = "Jan 02, 2006"
