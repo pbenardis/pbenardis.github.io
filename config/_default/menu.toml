@@ -47,6 +47,14 @@ url = "https://www.google.com/maps/place/%CE%A0%CE%91%CE%9D%CE%91%CE%93%CE%99%CE
 [social.params]
 icon = "map-pin"
 
+[[social]]
+identifier = "copyright"
+name = "copyright"
+url = "https://pbenardis.github.io/p/hello-world/"
+
+[social.params]
+icon = "copyright"
+
 
 #[[social]]
 #identifier = "twitter"
@@ -56,10 +64,4 @@ icon = "map-pin"
 #[social.params]
 #icon = "brand-twitter"
 
-[[social]]
-identifier = "copyright"
-name = "copyright"
-url = "https://twitter.com"
 
-[social.params]
-icon = "copyright"
