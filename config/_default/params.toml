@@ -5,8 +5,8 @@ rssFullContent = true
 favicon = "/favicon.png"
 
 [footer]
-since = 2020
-customText = "© 2025 Παναγιώτηs Μπεναρδής"
+since = 2025
+customText = "© Παναγιώτηs Μπεναρδής"
 
 [dateFormat]
 published = "Jan 02, 2006"
