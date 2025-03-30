@@ -17,5 +17,5 @@ tags: ["εξετάσεις", "ραντεβού"]
 
 Επικοινωνία:
 
-- Email: mailto:pbenardis@proton.me
-- Τηλ: 6945779539
+- Email: pbenardis@proton.me
+- Τηλ: +30 6945779539
