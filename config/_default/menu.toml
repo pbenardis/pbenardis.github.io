@@ -48,7 +48,7 @@ url = "https://www.google.com/maps/place/%CE%A0%CE%91%CE%9D%CE%91%CE%93%CE%99%CE
 icon = "map-pin"
 
 [[social]]
-identifier = "copyright"
+identifier = "wwcopyright"
 name = "copyright"
 url = "https://pbenardis.github.io/p/όροι-χρήσης/"
 
