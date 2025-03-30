@@ -2,7 +2,7 @@
 title: "Εμβρυική νευρολογία"
 description: "Εμβρυική νευρολογία"
 date: 2025-03-30T12:43:23Z
-image: 
+image: fetal-neurology.png
 math: 
 license: 
 hidden: false
