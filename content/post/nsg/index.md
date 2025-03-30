@@ -8,6 +8,7 @@ license:
 hidden: false
 comments: true
 draft: false
+weight: 1
 tags: ["νευροϋπερηχογράφημα", "ΚΝΣ", "εγκέφαλος", "σπονδηλική στήλη", "νωτιαίος μυελός"]
 ---
 
