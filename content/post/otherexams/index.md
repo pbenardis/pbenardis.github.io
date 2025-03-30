@@ -8,6 +8,7 @@ license:
 hidden: false
 comments: true
 draft: false
+weight: 2
 tags: ["εξετάσεις", "ραντεβού"]
 ---
 
