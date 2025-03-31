@@ -7,6 +7,7 @@ math:
 license: 
 hidden: false
 comments: true
+weight: 5
 tags: ["3D", "διακολπικό"]
 draft: false
 ---
