@@ -7,7 +7,7 @@ math:
 license: 
 hidden: false
 comments: true
-weight: 4
+weight: 3
 draft: false
 tags: ["παραπέμπων", "θεράπων", "εμβρυομητρικός"]
 ---
