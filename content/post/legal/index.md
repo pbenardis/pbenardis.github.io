@@ -8,7 +8,7 @@ license:
 hidden: false
 comments: true
 draft: false
-tags: ["όροι", "νομικά"]
+tags: ["όροι χρήσης ιστότοπου"]
 ---
 
 ## ΟΡΟΙ ΧΡΗΣΗΣ
