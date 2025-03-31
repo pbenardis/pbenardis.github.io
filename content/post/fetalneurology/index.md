@@ -7,7 +7,7 @@ math:
 license: 
 hidden: false
 comments: true
-weight: 3
+weight: 
 tags: ["νευρολογία", "διεπιστημονική", "εμβρυομητρικός", "παιδονευρολόγος", "γενετιστής", "παιδοακτινολόγος"]
 draft: false
 ---
