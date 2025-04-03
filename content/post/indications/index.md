@@ -9,6 +9,7 @@ hidden: false
 comments: true
 weight: 4
 draft: false
+categories: [Ενδείξεις]
 tags: ["ενδείξεις", "νευροϋπερηχογράφημα"]
 ---
 
