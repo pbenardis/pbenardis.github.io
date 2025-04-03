@@ -9,6 +9,7 @@ hidden: false
 comments: true
 draft: false
 weight: 2
+categories: ["Επικοινωνία", "Ραντεβού"]
 tags: ["ραντεβού", "παραπομπή", "εξετάσεις", "επικοινωνία"]
 ---
 
