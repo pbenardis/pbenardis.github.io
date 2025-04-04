@@ -13,6 +13,10 @@ weight:
 draft: false
 ---
 
+This is the website of Mr. Panagiotis Benardis, Consultant in Obstetrics and Gynecology, Specialised in Fetal Medicine and Gynecological Ultrasound (Diploma in Fetal Medicine, FMF, London and IOTA Certified, IOTA Group, Leuven, Belgium). 
+He is the Head of the Fetal Neurology Department of IASO Hospital, Athens, Greece. 
+Bio: https://www.linkedin.com/in/pbenardis/
+
 Fetal Neurology is the field of Maternal-Fetal Medicine that deals with congenital anomalies of the Central Nervous System (CNS) i.e. the brain and spinal cord of the fetus.
 
 **The fetal neurosonogram is a dedicated ultrasound of the CNS of the fetus. It is performed by a doctor who is specialized in this examination and who can diagnose the majority of fetal CNS anomalies accurately. It is usually performed with a combination of transabdominal and transvaginal imaging, including the use of color Doppler and 3D/4D ultrasound.** 
