@@ -2,7 +2,7 @@
 title: "Ενδείξεις"
 description: " Ενδείξεις εμβρυικού νευροϋπερηχογραφήματος"
 date: 2025-03-28T18:33:23Z
-image: isuog-logo.png
+image: isuog.jpg
 math: 
 license: 
 hidden: false
