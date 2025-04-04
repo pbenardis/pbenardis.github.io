@@ -2,7 +2,7 @@
 title: "Ραντεβού"
 description: "Παραπομπή εγκύων, ραντεβού και αποστολή προηγούμενων εξετάσεων"
 date: 2025-03-28T18:48:12Z
-image: previous-exams.jpg
+image: appointment.jpg
 math: 
 license: 
 hidden: false
