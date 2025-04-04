@@ -1,6 +1,6 @@
 ---
 title: "English"
-description: "What is fetal neurosonography, fetal neurology and how to book an appointment"
+description: "What is fetal neurology, fetal neurosonogram and how to book an appointment"
 date: 2025-04-04T06:36:35Z
 image: english.jpg
 math: 
@@ -36,6 +36,7 @@ The indications for a fetal neurosonogram are:
 Contact:
 
 Email: pbenardis@proton.me
+
 Mob: +30 694 577 9539
 
 **In order to book an appointment, all previous tests (ultrasounds, genetic tests, MRI, blood tests, etc.) should be sent to the doctor in advance.**
