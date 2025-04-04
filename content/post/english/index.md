@@ -13,7 +13,8 @@ weight:
 draft: false
 ---
 
-This is the website of Mr. Panagiotis Benardis, Consultant in Obstetrics and Gynecology, Specialised in Fetal Medicine and Gynecological Ultrasound (Diploma in Fetal Medicine, FMF, London and IOTA Certified, IOTA Group, Leuven, Belgium). 
+This is the website of Mr. Panagiotis Benardis, Consultant in Obstetrics and Gynecology, specialised in Fetal Medicine and Gynecological Ultrasound.
+He is the holder of Diploma in Fetal Medicine (FMF, London) and IOTA Certificate (IOTA Group, Leuven, Belgium). 
 He is the Head of the Fetal Neurology Department of IASO Hospital, Athens, Greece. 
 Bio: https://www.linkedin.com/in/pbenardis/
 
