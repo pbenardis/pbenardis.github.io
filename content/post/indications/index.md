@@ -32,6 +32,5 @@ tags: ["ενδείξεις", "νευροϋπερηχογράφημα"]
 - Μη ικανοποιητική εξέταση ΚΝΣ σε προηγούμενο υπερηχογράφημα για οποιοδήποτε λόγο
 - Επιθυμία γονέων
 
-(1) Προσαρμοσμένο από: 
-*Malinger G, Paladini D, Haratz KK, Monteagudo A, Pilu G, Timor-Tritsch IE.
+1. *Malinger G, Paladini D, Haratz KK, Monteagudo A, Pilu G, Timor-Tritsch IE.
 ISUOG Practice Guidelines (updated): sonographic examination of the fetal central nervous system. Part 1: performance of screening examination and indications for targeted neurosonography. Ultrasound Obstet Gynecol 2020; 56: 476–484. https://obgyn.onlinelibrary.wiley.com/doi/10.1002/uog.22145*
