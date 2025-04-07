@@ -76,8 +76,12 @@ tags: ["ενδείξεις", "νευροϋπερηχογράφημα"]
 
   * εκτός της δυσχερούς απεικόνισης, οι έγκυες με αυξημένο ΒΜΙ έχουν και αυξημένη πιθανότητα συγγενών ανωμαλιών
 
+- **Ορισμένες περιπτώσεις εξωσωματικής γονιμοποίησης (IVF):**
+
+  * τα έμβρυα με σοβαρού βαθμού καθυστέρηση αύξησης (IUGR / FGR) έχουν αυξημένη πιθανότητα ανωμαλιών του φλοιού
+
 - **Μη ικανοποιητική εξέταση ΚΝΣ σε προηγούμενο υπερηχογράφημα για οποιοδήποτε λόγο**
 - **Επιθυμία γονέων**
 
-Βιβλιογραφία: *Malinger G, Paladini D, Haratz KK, Monteagudo A, Pilu G, Timor-Tritsch IE.
+Ενδεικτική βιβλιογραφία: *Malinger G, Paladini D, Haratz KK, Monteagudo A, Pilu G, Timor-Tritsch IE.
 ISUOG Practice Guidelines (updated): sonographic examination of the fetal central nervous system. Part 1: performance of screening examination and indications for targeted neurosonography. Ultrasound Obstet Gynecol 2020; 56: 476–484. https://obgyn.onlinelibrary.wiley.com/doi/10.1002/uog.22145*
