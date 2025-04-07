@@ -7,7 +7,7 @@ math:
 license: 
 hidden: false
 comments: true
-weight: 4
+weight: 1
 draft: false
 categories: [Ενδείξεις]
 tags: ["ενδείξεις", "νευροϋπερηχογράφημα"]
