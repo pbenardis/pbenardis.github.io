@@ -36,12 +36,12 @@ The indications for a fetal neurosonogram are:
 - Exposure to medication possibly associated with CNS anomalies (including both parents)
 - Variants of unknown significance on a cromosome microarray analysis result
 - Inadequate visualisation of the CNS in previous ultrasound scans due to maternal high Body Mass Index (BMI)
-- Parents' wish
+- Parental request
 
 Contact:
 
 Email: pbenardis@proton.me
 
-Mob: +30 694 577 9539
+Mob: +30 6945779539
 
 **In order to book an appointment, all previous tests (ultrasounds, genetic tests, MRI, blood tests, etc.) should be sent to the doctor in advance.**
