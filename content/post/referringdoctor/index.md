@@ -8,7 +8,7 @@ license:
 hidden: false
 comments: true
 weight: 4
-draft: false
+draft: true
 categories: ["Παραπέμπων ιατρός"]
 tags: ["παραπέμπων", "θεράπων", "εμβρυομητρικός"]
 ---
