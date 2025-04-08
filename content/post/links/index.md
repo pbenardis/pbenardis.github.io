@@ -7,7 +7,7 @@ math:
 license: 
 hidden: false
 comments: true
-categories: [Σύνδεσμοι]
+categories: 
 tags: ["σύνδεσμοι"]
 draft: false
 ---
