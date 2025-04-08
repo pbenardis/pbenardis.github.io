@@ -11,7 +11,8 @@ tags: ["συνεργασίες", "νοσοκομεία", "μαιευτήρια"]
 draft: false
 ---
 
+- **Αθήνα**
 
-![ΙΑΣΩ Αθήνας](iaso.png)
+![](iaso.png)
 
-https://www.iaso.gr/maieytiki-gynaikologiki-kliniki/ypiresies/maieytiki-kliniki/embryomitriki-kai-perigennitiki-iatriki/kliniki-embryikis-neyrologias
+[Τμήμα Εμβρυικής Νευρολογίας](https://www.iaso.gr/maieytiki-gynaikologiki-kliniki/ypiresies/maieytiki-kliniki/embryomitriki-kai-perigennitiki-iatriki/kliniki-embryikis-neyrologias)
