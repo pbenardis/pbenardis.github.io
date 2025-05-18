@@ -101,6 +101,6 @@ tags: ["ενδείξεις", "νευροϋπερηχογράφημα"]
 *Malinger G, Paladini D, Haratz KK, Monteagudo A, Pilu G, Timor-Tritsch IE.
 ISUOG Practice Guidelines (updated): sonographic examination of the fetal central nervous system. Part 1: performance of screening examination and indications for targeted neurosonography. Ultrasound Obstet Gynecol 2020; 56: 476–484. https://obgyn.onlinelibrary.wiley.com/doi/10.1002/uog.22145*
 
-*https://fetalmedicinebarcelona.org/wp-content/uploads/2024/11/21-FETAL-NEUROSONOGRAPHY-CLINICAL-GUIDE-act.-2023.pdf*
+*Fetal Medicine Barcelona. Protocols in Maternal-Fetal Medicine. https://fetalmedicinebarcelona.org/wp-content/uploads/2024/11/21-FETAL-NEUROSONOGRAPHY-CLINICAL-GUIDE-act.-2023.pdf*
 
-*https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/pregnancy.html*
+*CDC Radiation Emergencies. Radiation and Pregnancy: Information for Clinicians. https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/pregnancy.html*
