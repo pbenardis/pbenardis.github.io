@@ -86,7 +86,7 @@ tags: ["ενδείξεις", "νευροϋπερηχογράφημα"]
   * ναρκωτικά και ουσίες κατάχρησης: κοκαΐνη, οπιοειδή και designer drugs (cannabinoids, phenethylamines, phencyclidines/arylcyclohexamines, tryptamines, piperazines, pipradrols, and N-ring systems)
   * έκθεση σε υψηλές δόσεις υδραργύρου (πχ κατανάλωση μεγαλύτερη από 50 gr/εβδομάδα ψαριών όπως ξιφίας, κόκκινος τόνος και λούτσος)
 
-- **Έκθεση σε υψηλές δόσεις ακτινοβολίας (μεγαλύτερης από 5 Rads)**: αξονική τομογραφία κοιλιάς, πυέλου, ΟΜΣΣ ή με χρήση βαρίου, ακτινοθεραπεία σε ογκολογικούς ασθενείς κλπ
+- **Έκθεση σε υψηλές δόσεις ακτινοβολίας (μεγαλύτερης από 0,5 Gy/50 rads)**: αξονική τομογραφία κοιλιάς, πυέλου, ΟΜΣΣ ή με χρήση βαρίου, ακτινοθεραπεία σε ογκολογικούς ασθενείς κλπ
 
 - **Εύρημα άγνωστης σημασίας (VUS) σε μοριακό καρυότυπο που έγινε για οποιαδήποτε άλλη ένδειξη**
 - **Δυσχερής απεικόνιση ΚΝΣ σε προηγούμενο υπερηχογράφημα λόγω αυξημένου ΒΜΙ της μητέρας (μητέρα υπέρβαρη ή παχύσαρκη):**
@@ -98,5 +98,9 @@ tags: ["ενδείξεις", "νευροϋπερηχογράφημα"]
 - **Μη ικανοποιητική εξέταση ΚΝΣ σε προηγούμενο υπερηχογράφημα για οποιοδήποτε λόγο**
 - **Επιθυμία γονέων**
 
-Ενδεικτική βιβλιογραφία: *Malinger G, Paladini D, Haratz KK, Monteagudo A, Pilu G, Timor-Tritsch IE.
+*Malinger G, Paladini D, Haratz KK, Monteagudo A, Pilu G, Timor-Tritsch IE.
 ISUOG Practice Guidelines (updated): sonographic examination of the fetal central nervous system. Part 1: performance of screening examination and indications for targeted neurosonography. Ultrasound Obstet Gynecol 2020; 56: 476–484. https://obgyn.onlinelibrary.wiley.com/doi/10.1002/uog.22145*
+
+*https://fetalmedicinebarcelona.org/wp-content/uploads/2024/11/21-FETAL-NEUROSONOGRAPHY-CLINICAL-GUIDE-act.-2023.pdf*
+
+*https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/pregnancy.html*
