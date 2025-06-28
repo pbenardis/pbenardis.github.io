@@ -2,7 +2,7 @@
 title: "Καλώς ήρθατε!"
 description: "Σε ποιούς απευθύνεται αυτός ο ιστότοπος"
 date: 2025-06-25T15:48:36Z
-image: 
+image: welcome.png
 math: 
 license:
 weight: 
