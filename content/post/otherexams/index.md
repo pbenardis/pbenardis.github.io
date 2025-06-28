@@ -8,7 +8,7 @@ license:
 hidden: false
 comments: true
 draft: false
-weight: 2
+weight: 3
 categories: ["Επικοινωνία", "Ραντεβού","Απαιτούμενες εξετάσεις"]
 tags: ["ραντεβού", "παραπομπή", "εξετάσεις", "επικοινωνία"]
 ---

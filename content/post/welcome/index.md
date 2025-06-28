@@ -5,7 +5,7 @@ date: 2025-06-25T15:48:36Z
 image: welcome.png
 math: 
 license:
-weight: 
+weight: 1
 hidden: false
 comments: true
 draft: false
