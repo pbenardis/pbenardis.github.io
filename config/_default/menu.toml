@@ -65,6 +65,14 @@ url = "https://pbenardis.github.io/p/%CF%81%CE%B1%CE%BD%CF%84%CE%B5%CE%B2%CE%BF%
 [social.params]
 icon = "phone"
 
+[[social]]
+identifier = "english-language"
+name = "English"
+url = "https://pbenardis.github.io/p/english/"
+
+[social.params]
+icon = "alphabet-latin"
+
 
 
 
