@@ -5,7 +5,7 @@ date: 2025-06-25T15:48:36Z
 image: 
 math: 
 license:
-weight: 0
+weight: 
 hidden: false
 comments: true
 draft: false
