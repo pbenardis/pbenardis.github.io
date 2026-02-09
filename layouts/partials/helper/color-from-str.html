@@ -1,0 +1,17 @@
+{{- /*
+  Override for theme's color-from-str partial.
+  Generates a deterministic hex color from an input string using md5.
+  Usage: {{ partial "helper/color-from-str.html" "Some string" }}
+*/ -}}
+{{- $s := . -}}
+{{- if not $s -}}
+  {{- /* return dict with defaults */ -}}
+  {{- return dict "BackgroundColor" "#000000" "TextColor" "#ffffff" -}}
+{{- else -}}
+  {{- $h := md5 $s -}}
+  {{- $hex := substr $h 0 6 -}}
+  {{- $bg := print "#" $hex -}}
+  {{- /* choose white text for now */ -}}
+  {{- $fg := "#ffffff" -}}
+  {{- return dict "BackgroundColor" $bg "TextColor" $fg -}}
+{{- end -}}
