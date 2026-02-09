@@ -5,13 +5,13 @@
 */ -}}
 {{- $s := . -}}
 {{- if not $s -}}
-  {{- /* return dict with defaults */ -}}
   {{- return dict "BackgroundColor" "#000000" "TextColor" "#ffffff" -}}
-{{- else -}}
-  {{- $h := md5 $s -}}
-  {{- $hex := substr $h 0 6 -}}
-  {{- $bg := print "#" $hex -}}
-  {{- /* choose white text for now */ -}}
-  {{- $fg := "#ffffff" -}}
-  {{- return dict "BackgroundColor" $bg "TextColor" $fg -}}
 {{- end -}}
+
+{{- /* Fallback: derive a deterministic hex color from md5 to avoid using `hash` function */ -}}
+{{- $h := md5 $s -}}
+{{- $hex := substr $h 0 6 -}}
+{{- $backgroundColor := print "#" $hex -}}
+{{- /* simple contrasting choice: default to white text */ -}}
+{{- $textColor := "#ffffff" -}}
+{{- return dict "BackgroundColor" $backgroundColor "TextColor" $textColor -}}
