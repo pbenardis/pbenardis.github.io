@@ -68,7 +68,7 @@ icon = "phone"
 [[social]]
 identifier = "english-language"
 name = "English"
-url = "https://pbenardis.github.io/p/english/"
+url = "https://fetalneurology.gr/p/english/"
 
 [social.params]
 icon = "alphabet-latin"
